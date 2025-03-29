@@ -118,6 +118,7 @@ def direct_link_generator(link):
         x in domain
         for x in [
             "streamtape.com",
+            "strcloud.club",
             "watchadsontape.com",
             "streamtape.co",
             "streamtape.cc",
